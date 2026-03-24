@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm shariful islam</h1>
 <h3 align="center">Laravel Developer | PHP Enthusiast</h3>
-<h4 align="center>I love building modern web applications</h4>
+<h4 align="center">I love building modern web applications</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariful&label=Profile%20views&color=0e75b6&style=flat" alt="shariful" /> </p>
 
