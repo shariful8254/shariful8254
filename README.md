@@ -1,19 +1,20 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm shariful islam</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Laravel Developer | PHP Enthusiast</h3>
+<h4 align="center>I love building modern web applications</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariful&label=Profile%20views&color=0e75b6&style=flat" alt="shariful" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shariful" alt="shariful" /></a> </p>
 
-- 🌱 I’m currently learning **php laravel**
+- 🌱 I’m currently learning ** laravel & REST API**
 
-- 💬 Ask me about **laravel**
+- 💬 Ask me about **PHP,laravel,MySQ4L**
 
 - 📫 How to reach me **shariful8254@gmail.com**
 
-- ⚡ Fun fact **i think iam funny**
+- ⚡ Fun fact **i love coding and solving problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
