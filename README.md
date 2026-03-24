@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning ** laravel & REST API**
 
-- 💬 Ask me about **PHP,laravel,MySQ4L**
+- 💬 Ask me about **PHP,laravel,MySQL**
 
 - 📫 How to reach me **shariful8254@gmail.com**
 
